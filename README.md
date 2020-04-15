@@ -2,6 +2,9 @@
 
 This respository is to maintain DBT data of various schemes in India. To understand how DBT functions as a primer, read the overview document about DBT and PFMS. DBT failures are a concern and they happen for various reasons, the document about DBT failures outlines some of them. 
 
+## PFMS
+
+This folder has data about all centrally sponsored schemes and state sponsored schemes, this was obtained under an RTI from Controller General of Accounts. 
 
 ## MOHFW
 
