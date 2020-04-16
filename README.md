@@ -27,3 +27,7 @@ In case a digital copy is not available, kindly provide photocopies or allow ins
 ## Showcase
 
 If you analyse this data, do reach out to us and we can include it here.
+
+## Copyleft
+
+All the community work is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 
