@@ -31,3 +31,9 @@ If you analyse this data, do reach out to us and we can include it here.
 ## Copyleft
 
 All the community work is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 
+
+## Readings
+
+You can read through the following articles about DBT architecture.
+
+Our [blogpost](https://kaarana.org/?p=79) about how the DBT architecture causes failures and its republication in [thewire](https://thewire.in/government/covid-19-aadhaar-dbt-and-a-reminder-of-the-issues-with-transaction-failure-data)
